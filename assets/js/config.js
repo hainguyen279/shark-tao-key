@@ -2,7 +2,7 @@
    Edit only this file when changing your Ouo.io gate URL.
 */
 window.SHARK_CONFIG = Object.freeze({
-  OUO_GATE_URL: 'https://ouo.io/Mta4TD',
+  OUO_GATE_URL: 'https://ouo.io/af7xie',
   STORAGE_KEY: 'shark_saved_key_v1',
   RETURN_MARKER: 'shark_ouo_verified_v1',
   // ===== Dong bo voi Bot Discord =====
@@ -12,7 +12,7 @@ window.SHARK_CONFIG = Object.freeze({
   API_BASE_URL: 'https://your-ngrok-url-here.ngrok-free.app',
   // API_KEY_SECRET: PHAI khop CHINH XAC voi KEY_API_SECRET trong file .env
   // cua bot Discord, neu khong API se tra ve loi 401 Unauthorized.
-  API_KEY_SECRET: 'hai12792009',
+  API_KEY_SECRET: 'hai2792009',
   // Thoi han mac dinh cap cho key tao tu web (khong bat buoc nguoi dung
   // chon) - sua theo y muon: { amount: 30, unit: 'ngay' } hoac
   // { amount: null, unit: 'vinhvien' }.
