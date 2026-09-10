@@ -9,7 +9,7 @@ window.SHARK_CONFIG = Object.freeze({
   // API_BASE_URL: dia chi PUBLIC cua bot (bot dang chay tren MAY THAT cua
   // ban, dung ngrok de co link nay - vd https://xxxx.ngrok-free.app).
   // MOI LAN restart ngrok link se DOI, phai vao day sua lai + upload lai.
-  API_BASE_URL: 'https://your-ngrok-url-here.ngrok-free.app',
+  API_BASE_URL: 'https://series-durably-tapping.ngrok-free.dev',
   // API_KEY_SECRET: PHAI khop CHINH XAC voi KEY_API_SECRET trong file .env
   // cua bot Discord, neu khong API se tra ve loi 401 Unauthorized.
   API_KEY_SECRET: 'hai2792009',
